@@ -46,6 +46,17 @@ h3 {
     font-weight: bold;
 }
 
+div h3{
+    display: block;
+    font-size: 1.0em;
+    -webkit-margin-before: 1em;
+    -webkit-margin-after: 1em;
+    -webkit-margin-start: 0px;
+    -webkit-margin-end: 0px;
+    font-weight: bold;
+    color: grey;
+}
+
 body a, html a {
     text-decoration: none;
     font-weight: 900;
